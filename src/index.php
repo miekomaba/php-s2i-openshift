@@ -25,7 +25,7 @@
       <div class="control">
         <div class="brand">
           <img class="logo" src="/images/fictional.svg" alt="example health logo">
-          <div class="Fictional">Example Health 02</div>
+          <div class="Fictional">Example Health 002</div>
         </div>
         <menu class="menu">
           <menuitem class="lit">management console</menuitem>
